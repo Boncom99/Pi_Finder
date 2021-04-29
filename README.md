@@ -6,3 +6,11 @@ It's still fun to use it!
 What does it matter if your name is in the digit 3643765433 or on another? 
 Also, the digit in PI where your name is located depends on the encoding you use.
 So the digit that my app return is correct using a specific encoding  XD.
+
+To install just run
+
+expo build:android 
+
+or
+
+expo build:ios
